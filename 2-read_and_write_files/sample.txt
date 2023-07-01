@@ -1,0 +1,3 @@
+Writing some texts innside the filee
+And this is probably gonna be the  second line of the file
+heey this is the thirdoon the same line: bla bla bla bla........
